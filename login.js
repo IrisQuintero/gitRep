@@ -5,3 +5,7 @@ export const login = () => {
         </div>
     )
 }
+
+const password = "Hola mundo"
+
+const firebase_password = "loQueSea1208"
